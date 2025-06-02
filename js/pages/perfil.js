@@ -79,16 +79,7 @@ class ProfilePage {
           { icon: "🔒", text: "Implementar nuevas medidas de seguridad", status: "pending" },
         ],
         currentCourses: [
-          {
-            title: "Gestión Avanzada de Sistemas",
-            progress: 75,
-            thumbnail: "/placeholder.svg?height=60&width=40",
-          },
-          {
-            title: "Liderazgo Digital",
-            progress: 45,
-            thumbnail: "/placeholder.svg?height=60&width=40",
-          },
+          
         ],
       },
       student: {
@@ -131,7 +122,7 @@ class ProfilePage {
           { icon: "🏆", text: "Obtener certificación en React", status: "pending" },
         ],
         currentCourses: [
-          {
+         /** {
             title: "JavaScript Avanzado",
             progress: 65,
             thumbnail: "/placeholder.svg?height=60&width=40",
@@ -140,7 +131,7 @@ class ProfilePage {
             title: "React Development",
             progress: 30,
             thumbnail: "/placeholder.svg?height=60&width=40",
-          },
+          },**/
         ],
       },
       instructor: {
